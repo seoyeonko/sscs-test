@@ -1,0 +1,13 @@
+$primary: pink;
+$secondary: skyblue;
+
+h1 {
+  color: $primary;
+}
+
+div {
+  color: $secondary;
+  span {
+    color: $primary;
+  }
+}
